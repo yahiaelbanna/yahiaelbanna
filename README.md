@@ -16,7 +16,7 @@ const yahia = {
   databases: ["MySQL", "Firebase"],
   tools: ["Git", "AWS", "Vercel", "Figma", "Adobe Creative Suite"],
   focus: ["ERP Systems", "Business Tools", "Web Applications", "Websites"],
-  philosophy: "Always learning, always building"
+  philosophy: "Where imagination fades, code becomes an echo of others."
 };
 ```
 <!--
