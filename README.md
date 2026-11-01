@@ -25,7 +25,6 @@ const yahia = {
 [![Portfolio Preview](https://img.shields.io/badge/🎨_Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yahiaelbanna.vercel.app)
 [![Visit Website](https://img.shields.io/badge/🌐_Visit_Website-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://yahiaelbanna.vercel.app)
 -->
-## 🛠️ Tech Stack
 ## 📊 GitHub Analytics
 
 <div align="center">
